@@ -1,0 +1,26 @@
+.div-first{
+    background-color: aquamarine;
+    padding: 20px;
+    margin-right: 800pt;
+    border: 8px solid black;
+}
+
+.div-second{
+    background-color: yellow;
+    color: yellow;
+    padding: 20px;
+    margin-left: 205pt;
+    margin-right: 590pt;
+    border: solid black;
+    border-width: 20px 10px 20px 10px;   
+}
+
+.div-third{
+    background-color: brown;
+    color: brown;
+    padding: 20px;
+    margin-right: 800pt;
+    margin-left: 20pt;
+    border: solid black;
+    border-width: 10px 10px 10px 10px;
+}
